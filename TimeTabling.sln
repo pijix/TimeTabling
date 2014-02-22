@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Web Developer Express 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTabling.Web", "TimeTabling.Web\TimeTabling.Web.csproj", "{7F02AE19-E941-4749-B93D-F36F58D05DB5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTabling.Application", "TimeTabling.Application\TimeTabling.Application.csproj", "{B80FE1F8-A2A3-47C8-B471-770535E9AB36}"
