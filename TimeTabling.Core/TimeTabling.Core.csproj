@@ -43,6 +43,7 @@
     <Compile Include="Alumno.cs" />
     <Compile Include="Aula.cs" />
     <Compile Include="Asignatura.cs" />
+    <Compile Include="Contracts\Application\IAula.cs" />
     <Compile Include="Contracts\DAL\IProfesor.cs" />
     <Compile Include="Contracts\DAL\IEspecialidad.cs" />
     <Compile Include="Contracts\DAL\IAula.cs" />
@@ -52,9 +53,7 @@
     <Compile Include="Profesor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Contracts\Application\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
